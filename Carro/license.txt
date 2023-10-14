@@ -1,0 +1,11 @@
+Model Information:
+* title:	Electric Car
+* source:	https://sketchfab.com/3d-models/electric-car-c99e544549a244ce87938a9e3ab4e0e5
+* author:	magicmouse (https://sketchfab.com/Mccandless)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Electric Car" (https://sketchfab.com/3d-models/electric-car-c99e544549a244ce87938a9e3ab4e0e5) by magicmouse (https://sketchfab.com/Mccandless) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
