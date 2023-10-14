@@ -1,0 +1,11 @@
+Model Information:
+* title:	Autolib' 3DST51
+* source:	https://sketchfab.com/3d-models/autolib-3dst51-f4eafb342ecb438ba3bff34dbd77cb46
+* author:	Maurice Svay (https://sketchfab.com/mauricesvay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Autolib' 3DST51" (https://sketchfab.com/3d-models/autolib-3dst51-f4eafb342ecb438ba3bff34dbd77cb46) by Maurice Svay (https://sketchfab.com/mauricesvay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
